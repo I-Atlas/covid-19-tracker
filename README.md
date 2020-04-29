@@ -9,17 +9,17 @@
     <br>
 </h1>
 
-## Description
+# Description
 
 React app Covid-19 Tracker, using material-ui, react-chartjs-2.
 
 More information about COVID-19 pandemic you can find on the [WHO website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019).
 
-## [API](https://covid19.mathdro.id/api)
+# [API](https://covid19.mathdro.id/api)
 
 https://github.com/mathdroid/covid-19-api
 
-## Setup
+# Setup
 
 `npm install`
 `npm start`
