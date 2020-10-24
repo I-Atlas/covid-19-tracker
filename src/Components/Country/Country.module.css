@@ -1,10 +1,10 @@
 .formControl {
-    width: 30%;
-    margin-bottom: 30px !important;
+  width: 30%;
+  margin-bottom: 30px !important;
 }
 
 @media only screen and (max-width: 720px) {
-    .formControl {
-        width: 40%;
-    }
+  .formControl {
+    width: 40%;
+  }
 }
