@@ -1,30 +1,30 @@
-<h1 align="center">
-    <a href="https://github.com/I-Atlas/Covid-19-Tracker">
-    <img src="https://imgur.com/5pHpweZ.png" width="300" alt="Covid-19">
-    </a>
-    <br>
-    <br>
-    Covid-19 Tracker
-    <br>
-    <br>
-</h1>
+# [Covid-19 Tracker](https://i-atlas.github.io/covid-19-tracker/)
+![GitHub](https://img.shields.io/github/license/I-Atlas/covid-19-tracker?style=flat-square)
+![GitHub deployments](https://img.shields.io/github/deployments/I-Atlas/covid-19-tracker/github-pages?style=flat-square)
 
-## Description
+<a href="https://i-atlas.github.io/covid-19-tracker/">
+    <img src="https://i.imgur.com/aSMlHOc.png" alt="Covid-19">
+</a>
 
-React app Covid-19 Tracker, using material-ui, react-chartjs-2.
+Small dashboard to track COVID-19 propagation.
 
-More information about COVID-19 pandemic you can find on the [WHO website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019).
+More information about coronavirus pandemic you can find on the [WHO website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019).
 
-## [API](https://covid19.mathdro.id/api)
+## ⚙️ Api
 
-https://github.com/mathdroid/covid-19-api
+[**mathdroid**](https://github.com/mathdroid/covid-19-api)
 
-## Setup
+## 🚀 Setup
 
-`npm install`
-`npm start`
+```
+yarn && yarn start
+```
 
-## Some useul information:
+## 📄 License
+
+The project is licensed under the [Apache license 2.0](https://github.com/I-Atlas/covid-19-tracker/LICENSE).
+
+## 📖 Some useul information:
 
 - **What is coronavirus?**
 

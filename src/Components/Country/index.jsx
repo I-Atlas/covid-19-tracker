@@ -1,10 +1,11 @@
+import React from "react";
 import { useState, useEffect } from "react";
 import { FormControl, MenuItem, Select, InputLabel } from "@material-ui/core";
 import { receivedCountries } from "../../api";
 import styles from "./Country.module.css";
 
-const Countries = ({ handleCountryChange }) => {
-  const [Countries, setReceivedCountries] = useState([]);
+const Country = ({ handleCountryChange }) => {
+  const [countries, setReceivedCountries] = useState([]);
 
   useEffect(() => {
     const receivedAPI = async () => {
@@ -22,7 +23,7 @@ const Countries = ({ handleCountryChange }) => {
         onChange={(event) => handleCountryChange(event.target.value)}
       >
         <MenuItem value="">Global</MenuItem>
-        {Countries.map((country, index) => (
+        {countries.map((country, index) => (
           <MenuItem key={index} value={country}>
             {country}
           </MenuItem>
@@ -32,4 +33,4 @@ const Countries = ({ handleCountryChange }) => {
   );
 };
 
-export default Countries;
+export default Country;
