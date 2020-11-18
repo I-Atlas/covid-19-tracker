@@ -1,6 +1,7 @@
 # [Covid-19 Tracker](https://i-atlas.github.io/covid-19-tracker/)
 ![GitHub](https://img.shields.io/github/license/I-Atlas/covid-19-tracker?style=flat-square)
 ![GitHub deployments](https://img.shields.io/github/deployments/I-Atlas/covid-19-tracker/github-pages?style=flat-square)
+[![Iliya Bolotov](https://img.shields.io/badge/iliya-bolotov-%23ff6f61?style=flat-square&logo=appveyor)](https://github.com/I-Atlas)
 
 <a href="https://i-atlas.github.io/covid-19-tracker/">
     <img src="https://i.imgur.com/aSMlHOc.png" alt="Covid-19">
