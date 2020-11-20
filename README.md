@@ -23,7 +23,7 @@ yarn && yarn start
 
 ## 📄 License
 
-The project is licensed under the [Apache license 2.0](https://github.com/I-Atlas/covid-19-tracker/LICENSE).
+The project is licensed under the [Apache license 2.0](https://github.com/I-Atlas/covid-19-tracker/blob/master/LICENSE).
 
 ## 📖 Some useul information:
 
